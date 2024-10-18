@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Memory_spel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+674fd7be3b4b3706b7e2e4b3978d9da86894ecb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da6f1cd7136c6ad985205918b23acb2969976fb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Memory_spel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Memory_spel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
