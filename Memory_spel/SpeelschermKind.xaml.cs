@@ -120,12 +120,12 @@ namespace Memory_spel
                 secondClickedButton = null;
 
                 // Controleer of alle matches zijn gevonden
-                //if (matchesFound == shuffledImages.Count / 2)
-                //{
-                //    EindschermKind winWindow = new EindschermKind();
-                //    winWindow.Show(); // Open het Eindscherm
-                //    this.Close(); // Sluit het huidige venster, indien gewenst
-                //}
+                if (matchesFound == shuffledImages.Count / 2)
+                {
+                    EindschermKind winWindow = new EindschermKind();
+                    winWindow.Show(); // Open het Eindscherm
+                    this.Close(); // Sluit het huidige venster, indien gewenst
+                }
             }
             else
             {
