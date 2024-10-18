@@ -20,5 +20,19 @@ namespace Memory_spel
         {
             InitializeComponent();
         }
+
+        //private void ButtonStartKind_Click(object sender, RoutedEventArgs e)
+        //{
+        //    SpeelschermKind game = new SpeelschermKind();
+        //    game.Visibility = Visibility.Visible;
+        //    this.Visibility = Visibility.Hidden;
+        //}
+
+        //private void ButtonStartVolw_Click(object sender, RoutedEventArgs e)
+        //{
+        //    OptiesSpeelschermVolw game = new OptiesSpeelschermVolw();
+        //    game.Visibility = Visibility.Visible;
+        //    this.Visibility = Visibility.Hidden;
+        //}
     }
 }

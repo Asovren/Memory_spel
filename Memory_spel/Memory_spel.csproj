@@ -8,4 +8,20 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Afbeeldingen\home_button004.bmp" />
+    <None Remove="Afbeeldingen\kind008.jpg" />
+    <None Remove="Afbeeldingen\play_button001.jpg" />
+    <None Remove="Afbeeldingen\Restart_button001.png" />
+    <None Remove="Afbeeldingen\volwassen003.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Afbeeldingen\home_button004.bmp" />
+    <Resource Include="Afbeeldingen\kind008.jpg" />
+    <Resource Include="Afbeeldingen\play_button001.jpg" />
+    <Resource Include="Afbeeldingen\Restart_button001.png" />
+    <Resource Include="Afbeeldingen\volwassen003.jpg" />
+  </ItemGroup>
+
 </Project>
