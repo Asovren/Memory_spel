@@ -94,18 +94,18 @@
 
             <!-- Eerste knop met afbeelding en hover opacity effect -->
             <Viewbox>
-                <Button x:Name="ButtonStartKind" Style="{DynamicResource RoundedButtonStyle}" HorizontalAlignment="Center" VerticalAlignment="Center" Height="250" Width="250"  >
+                <Button x:Name="ButtonStartKind" Style="{DynamicResource RoundedButtonStyle}" HorizontalAlignment="Center" VerticalAlignment="Center" Height="250" Width="250" Click="ButtonStartKind_Click" >
                     <Button.Background>
-                        <ImageBrush ImageSource="Afbeeldingen/kind008.jpg"></ImageBrush>
+                        <ImageBrush ImageSource="/Afbeeldingen/kind008.jpg"></ImageBrush>
                     </Button.Background>
                 </Button>
             </Viewbox>
 
             <!-- Tweede knop met afbeelding en hover opacity effect -->
             <Viewbox Grid.Column="1">
-                <Button x:Name="ButtonStartVolw" Style="{DynamicResource RoundedButtonStyle}" HorizontalAlignment="Center" VerticalAlignment="Center" Height="250" Width="250"  >
+                <Button x:Name="ButtonStartVolw" Style="{DynamicResource RoundedButtonStyle}" HorizontalAlignment="Center" VerticalAlignment="Center" Height="250" Width="250" >
                     <Button.Background>
-                        <ImageBrush ImageSource="Afbeeldingen/volwassen003.jpg"></ImageBrush>
+                        <ImageBrush ImageSource="/Afbeeldingen/volwassen003.jpg"></ImageBrush>
                     </Button.Background>
                 </Button>
             </Viewbox>

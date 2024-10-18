@@ -9,6 +9,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Afbeeldingen\Gruffalo\Gruffalo.bmp" />
+    <None Remove="Afbeeldingen\Gruffalo\Kikker.bmp" />
+    <None Remove="Afbeeldingen\Gruffalo\Muis.bmp" />
+    <None Remove="Afbeeldingen\Gruffalo\Slang.bmp" />
+    <None Remove="Afbeeldingen\Gruffalo\Uil.bmp" />
+    <None Remove="Afbeeldingen\Gruffalo\Vos.bmp" />
     <None Remove="Afbeeldingen\home_button004.bmp" />
     <None Remove="Afbeeldingen\kind008.jpg" />
     <None Remove="Afbeeldingen\play_button001.jpg" />
@@ -17,6 +23,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="Afbeeldingen\Gruffalo\Gruffalo.bmp" />
+    <Resource Include="Afbeeldingen\Gruffalo\Kikker.bmp" />
+    <Resource Include="Afbeeldingen\Gruffalo\Muis.bmp" />
+    <Resource Include="Afbeeldingen\Gruffalo\Slang.bmp" />
+    <Resource Include="Afbeeldingen\Gruffalo\Uil.bmp" />
+    <Resource Include="Afbeeldingen\Gruffalo\Vos.bmp" />
     <Resource Include="Afbeeldingen\home_button004.bmp" />
     <Resource Include="Afbeeldingen\kind008.jpg" />
     <Resource Include="Afbeeldingen\play_button001.jpg" />
